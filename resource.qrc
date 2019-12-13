@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/bg.jpg</file>
+        <file>resource/pepper.png</file>
+        <file>resource/texas_model.png</file>
+        <file>resource/texas.jpg</file>
+        <file>resource/mask.png</file>
+        <file>resource/bluepoison.jpg</file>
+        <file>resource/bluepoison_model.png</file>
+        <file>resource/gugu_model.png</file>
+        <file>resource/saria_model.png</file>
+        <file>resource/silverash_model.png</file>
+        <file>resource/gugu.jpg</file>
+        <file>resource/silverash.jpg</file>
+        <file>resource/saria.jpg</file>
+        <file>resource/quota_text.jpg</file>
+        <file>resource/cost.jpg</file>
+        <file>resource/score.jpg</file>
+        <file>resource/texas_battle.png</file>
+        <file>resource/bluepoison_battle.png</file>
+        <file>resource/gugu_battle.png</file>
+        <file>resource/saria_battle.png</file>
+        <file>resource/silverash_battle.png</file>
+        <file>resource/specter.jpg</file>
+        <file>resource/specter_battle.png</file>
+        <file>resource/specter_model.png</file>
+        <file>resource/soldier_battle.png</file>
+        <file>resource/soldier_model.png</file>
+        <file>resource/plane_battle.png</file>
+        <file>resource/plane_model.png</file>
+        <file>resource/dog_battle.png</file>
+        <file>resource/dog_model.png</file>
+        <file>resource/hammer_battle.png</file>
+        <file>resource/hammer_model.png</file>
+        <file>resource/bully_battle.png</file>
+        <file>resource/bully_model.png</file>
+    </qresource>
+</RCC>
